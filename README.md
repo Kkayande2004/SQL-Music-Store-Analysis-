@@ -7,5 +7,5 @@ PgAdmin4
 
 ### Schema- Music Store Database
 
-(https://github.com/Kkayande2004/SQL-Music-Store-Analysis-/commit/d78f02a26f1a161b2022e75b2d6f1d1fce2444d6.png)
+![ScreenShot](https://github.com/Kkayande2004/SQL-Music-Store-Analysis-/commit/d78f02a26f1a161b2022e75b2d6f1d1fce2444d6)
 
